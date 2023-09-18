@@ -1,2 +1,2 @@
 # Medical-Cost-Personal-Insurance
-Medical Cost Personal Insurance Prediction
+This project explains on how to build a machine learning algorithm for calculating the medical insurance costs.
